@@ -10,6 +10,7 @@
 # - Logo arriba derecha: logo.png (misma carpeta que app.py)
 # ==========================================================
 
+
 import json
 import os
 import re
